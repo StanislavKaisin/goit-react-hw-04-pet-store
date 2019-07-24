@@ -7,10 +7,6 @@ const activeStyle = {
   color: 'palevioletred',
 };
 
-// const activeStyle = styles.activeLink;
-
-// console.log(styles);
-
 const Nav = () => {
   return (
     <ul className={styles.navigation}>
