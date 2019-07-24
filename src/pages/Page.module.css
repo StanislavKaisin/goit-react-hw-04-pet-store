@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+}
+
+.container h1 {
+  margin: auto;
+}
+
+.container > div > a {
+  padding: 0.5rem;
+  display: inline-block;
+}
+
+.container > div > a:hover {
+  background-color: rgb(100, 100, 100);
+  color: white;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h2 {
+  padding: 3rem;
+}

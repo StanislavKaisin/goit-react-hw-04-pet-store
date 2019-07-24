@@ -1,0 +1,15 @@
+.content {
+  padding: 8px;
+}
+
+p span {
+  font-weight: 800;
+}
+
+.imgBlock {
+  display: flex;
+}
+
+.imgBlock img {
+  padding: 0 3rem 0;
+}
